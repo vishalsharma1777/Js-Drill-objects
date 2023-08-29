@@ -1,0 +1,23 @@
+{
+  "name": "objects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "allTests.js",
+  "scripts": {
+    "test": "node test/allTests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalsharma1777/Js-Drill-objects.git"
+  },
+  "keywords": [
+    "objects"
+  ],
+  "type": "module",
+  "author": "vishal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalsharma1777/Js-Drill-objects/issues"
+  },
+  "homepage": "https://github.com/vishalsharma1777/Js-Drill-objects#readme"
+}
